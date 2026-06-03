@@ -20,15 +20,11 @@ The goal of this repository is to document my progress and learning throughout t
 
 ```text
 .
-├── Learning_Paths/
+├── Cyber Security 101/
 │
-├── Easy/
+├── Templates/
 │
-├── Medium/
-│
-├── Hard/
-│
-└── Resources/
+
 ```
 
 ---
