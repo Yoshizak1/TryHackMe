@@ -66,34 +66,6 @@ The goal of this repository is to document my progress and learning throughout t
 - Metasploit
 
 ---
-
-## 📝 Room Template
-
-### Room Information
-
-- Room Name:
-- Difficulty:
-- Category:
-- Completion Date:
-
-### Tasks
-
-#### Task 1
-
-Question:
-> Answer:
-
-#### Task 2
-
-Question:
-> Answer:
-
-### Useful Commands
-
-```bash
-# Commands used during the room
-```
-
 ### Notes
 
 - Important findings

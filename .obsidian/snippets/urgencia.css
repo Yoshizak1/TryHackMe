@@ -1,0 +1,13 @@
+.urgencia {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin-right: 6px;
+}
+
+.critica { background-color: red; }
+.alta { background-color: orange; }
+.media { background-color: yellow; }
+.baixa { background-color: green; }
+.planejada { background-color: blue; }

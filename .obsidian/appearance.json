@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Typewriter",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "urgencia"
+  ],
+  "textFontFamily": "SN Pro,Libre Baskerville",
+  "interfaceFontFamily": "SN Pro",
+  "baseFontSize": 18
+}
