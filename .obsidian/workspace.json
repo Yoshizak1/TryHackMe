@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Room Template.md",
+                "file": "Cyber Security 101/Module 4/Windows Command Line.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Room Template"
+              "title": "Windows Command Line"
             }
           }
         ],
@@ -189,6 +189,7 @@
   },
   "active": "1b8894d3c0e63746",
   "lastOpenFiles": [
+    "README.md",
     "Cyber Security 101/Module 4/Windows Command Line.md",
     "Templates/Room Template.md",
     "Cyber Security 101/1 - About the Path.md",
@@ -224,7 +225,6 @@
     "4 - Archives/Projetos Concluídos/P3.md",
     "4 - Archives/Projetos Concluídos/P2.md",
     "4 - Archives/Projetos Concluídos/Documentação dos Servidores.md",
-    "4 - Archives/extra carnaval  2026/Ideia tags função.md",
     "Extras/IMG/Pasted image 20250912093352.png",
     "Extras/IMG/Pasted image 20250908234718.png",
     "2 - Areas/SI/Monitoramento/Aplicativos.canvas",
